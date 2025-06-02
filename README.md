@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 - 🌱 I’m currently Studying Frontend Development at Noroff, Norway [![Noroff](https://img.shields.io/badge/Noroff_Student-1E63B0?style=flat&logoColor=white)](https://www.noroff.no/en/studies/vocational-school/front-end-development) 
-- 🌱 I’m currently self-Studying [![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity) 
+- 🌱 I’m currently Self-Studying Google Cybersecurity Professional Certificate [![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity) 
 - 👯 I’m looking to collaborate and network.
 - 🤔 I’m looking mentorship and expertise for Cybersecurity
 - 📫 Reach me through email and linkedin
