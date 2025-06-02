@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking mentorship and expertise for Cybersecurity
 - 📫 Reach me through email and linkedin
 ---
-### 🛠️ **Core Skills**  
+### 🛠️ Core Skills  
 ◾ **Frontend**: HTML5, CSS3 (Tailwind), JavaScript (ES6+)  
 ◾ **Design**: Figma (Wireframing, Prototyping)  
 ◾ **APIs**: RESTful Integration, Fetch, Async/Await  
-◾ **UX Principles**: Mobile-First, Accessibility (WCAG)
-◾ **Developing expertise in Cybersecurity**
-
+◾ **UX Principles**: Mobile-First, Accessibility (WCAG)  
+◾ **Developing expertise in Cybersecurity**  
 
 ---
 
