@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 ◾ **Design**: Figma (Wireframing, Prototyping)  
 ◾ **APIs**: RESTful Integration, Fetch, Async/Await  
 ◾ **UX Principles**: Mobile-First, Accessibility (WCAG)  
-◾ **AI-Powered Creativity & Ideation
 ◾ **Developing expertise in Cybersecurity**  
+◾ **AI-Powered Creativity & Ideation**  
+
 
 ---
 
